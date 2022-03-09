@@ -1,2 +1,2 @@
 # NaughtsCrosses
-AI for Naughts and Crosses
+Comp to Play Naughts and Crosses
